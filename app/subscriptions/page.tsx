@@ -1,7 +1,5 @@
-const subscriptions =()=>{
-    return (
-        <h1>subscriptions Page</h1>
-    )
-}
+const subscriptions = () => {
+  return <h1>subscriptions Page</h1>;
+};
 
-export default subscriptions
+export default subscriptions;
